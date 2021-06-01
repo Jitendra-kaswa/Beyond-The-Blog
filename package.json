@@ -1,0 +1,23 @@
+{
+  "name": "beyond-the-blog",
+  "version": "1.0.0",
+  "description": "This will gona be a MERN Stack Blog Application",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jitendra-kaswa/Beyond-The-Blog.git"
+  },
+  "author": "Jitendra Kaswa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jitendra-kaswa/Beyond-The-Blog/issues"
+  },
+  "homepage": "https://github.com/Jitendra-kaswa/Beyond-The-Blog#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
